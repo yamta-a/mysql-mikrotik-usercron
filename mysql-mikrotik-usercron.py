@@ -44,4 +44,4 @@ for row in c:
 	client.exec_command('ip hotspot user add name='+row[0].lower()+' password='+row[1].lower()+' profile=student')
 
 print("*** 5...")
-print("*** All Good Donw!...")
+print("*** All Good! Done!...")
